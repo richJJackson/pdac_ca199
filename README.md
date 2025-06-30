@@ -47,4 +47,3 @@ For this hypothetical patient we generate predictions based on 5 scenarios of ch
  * Decreasing from a baseline of 100 to 35 
 
 
-those who demonstrate some reductioin, those who de
